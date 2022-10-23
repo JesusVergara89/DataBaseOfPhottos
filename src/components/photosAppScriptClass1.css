@@ -1,0 +1,14 @@
+.main-photo1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    gap: 20px;
+}
+
+.main-photo1 img {
+    width: 100px;
+    height: 80px;
+}
