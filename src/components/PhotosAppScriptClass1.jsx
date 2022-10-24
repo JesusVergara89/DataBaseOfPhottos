@@ -12,14 +12,18 @@ import img8 from './cardsPhotos/8.jpg'
 const PhotosAppScriptClass1 = () => {
   return (
     <article className="main-photo1">
-        <img src={img1}alt="" />
-        <img src={img2}alt="" />
-        <img src={img3}alt="" />
-        <img src={img4}alt="" />
-        <img src={img5}alt="" />
-        <img src={img6}alt="" />
-        <img src={img7}alt="" />
-        <img src={img8}alt="" />
+      <h2>Data base of cars photos</h2>
+      <div className='main-photo1-div'>
+        <img src={img1} alt="" />
+        <img src={img2} alt="" />
+        <img src={img3} alt="" />
+        <img src={img4} alt="" />
+        <img src={img5} alt="" />
+        <img src={img6} alt="" />
+        <img src={img7} alt="" />
+        <img src={img8} alt="" />
+      </div>
+
     </article>
   )
 }

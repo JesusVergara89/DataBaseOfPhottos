@@ -1,4 +1,4 @@
-.main-photo1{
+.main-photo2{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -6,11 +6,11 @@
     width: 100%;
     height: auto;
     gap: 20px;
-    background-color: rgb(249, 249, 162);
+    background-color: rgb(201, 247, 142);
     padding: 40px;
 }
 
-.main-photo1-div {
+.main-photo2-div {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -19,7 +19,7 @@
     height: auto;
     gap: 20px;
 }
-.main-photo1 img {
+.main-photo2 img {
     width: 100px;
     height: 80px;
 }
